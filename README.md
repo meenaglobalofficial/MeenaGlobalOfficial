@@ -1,4 +1,4 @@
-<h1 align="center">🚀 MEENA GLOBAL LIMITED</h1>
+<h1 align="center">MEENA GLOBAL LIMITED</h1>
 
 <p align="center">
   <b>Building Powerful Android Apps for the World 🌍</b>
