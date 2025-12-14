@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">🚀 MEENA GLOBAL LIMITED</h1>
 
-<!--
-**meenaglobalofficial/MeenaGlobalOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building Powerful Android Apps for the World 🌍</b>
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👋 Welcome to MEENA GLOBAL LIMITED</h2>
+
+<p>
+MEENA GLOBAL LIMITED ek modern tech company hai jo high-quality, fast aur secure
+<strong>Android applications</strong> develop karti hai Play Store ke liye.
+</p>
+
+---
+
+<h2>💼 What We Do</h2>
+
+<ul>
+  <li>📱 <b>Android App Development</b> – Modern & scalable apps</li>
+  <li>⚡ <b>High Performance</b> – Smooth & optimized user experience</li>
+  <li>🎨 <b>Modern UI/UX</b> – Clean aur professional design</li>
+  <li>🌍 <b>Global Reach</b> – Apps for worldwide users</li>
+</ul>
+
+---
+
+<h2>🧑‍💻 Founders</h2>
+
+<ul>
+  <li>👑 <b>Pawan</b> – Co-Founder</li>
+  <li>🤝 <b>Vishnu</b> – Co-Founder</li>
+  <li>🔥 <b>Rohitaash</b> – Co-Founder</li>
+</ul>
+
+---
+
+<h2>📲 Our Mission</h2>
+
+<p>
+Innovative aur reliable mobile apps banana jo users ki life easy aur productive banaye 💡
+</p>
+
+---
+
+<h2>📧 Contact Us</h2>
+
+<p>
+📩 Email: <b>meenaglobalofficial@gmail.com</b><br>
+🌐 GitHub: <a href="https://github.com/meenaglobalofficial">meenaglobalofficial</a>
+</p>
+
+---
+
+<p align="center">
+  © 2025 <b>MEENA GLOBAL LIMITED</b> | All Rights Reserved ❤️
+</p>
